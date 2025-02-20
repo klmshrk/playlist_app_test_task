@@ -1,2 +1,33 @@
-# playlist_app_test_task
-The test assessment, where the goal is to write automated UI tests for a simple playlist app
+# Playwright Tests Setup
+
+This repository contains automated tests for a web application, written using [Playwright](https://playwright.dev/) and TypeScript.
+
+## Installation
+
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/klmshrk/playlist_app_test_task.git
+   cd playlist_app_test_task/
+   ```
+
+2. **Install dependencies**:
+   ```sh
+   npm install
+   ```
+
+## Running Tests
+
+Run all tests locally with a single command:
+   ```sh
+   npm run test
+   ```
+
+Run all tests locally in headed mode:
+   ```sh
+   npm run test:headed
+   ```
+
+## Additional Resources
+
+For detailed documentation, visit the [official Playwright website](https://playwright.dev/).
+

@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "The test assessment, where the goal is to write automated UI tests for a simple playlist app",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
