@@ -10,6 +10,8 @@ This repository contains automated tests for a web application, written using [P
    cd playlist_app_test_task/
    ```
 
+**Copy `.env.example` to `.env` and fill in the values**
+
 2. **Install dependencies**:
    ```sh
    npm install
