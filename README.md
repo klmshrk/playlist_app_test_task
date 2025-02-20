@@ -1,8 +1,10 @@
 # Playwright Tests Setup
 
-This repository contains automated tests for a web application, written using [Playwright](https://playwright.dev/) and TypeScript.
+This repository contains automated tests for a web application, written using [Playwright](https://playwright.dev/) and TypeScript. 
 
 ## Installation
+
+Install Node.js(LTS) before executing setup steps!
 
 1. **Clone the repository**:
    ```sh
