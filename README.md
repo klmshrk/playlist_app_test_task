@@ -14,7 +14,7 @@ This repository contains automated tests for a web application, written using [P
 
 2. **Install dependencies**:
    ```sh
-   npm install
+   npm install && npx playwright install
    ```
 
 ## Running Tests
